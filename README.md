@@ -19,4 +19,10 @@ Step 6 - Open the folder that you extracted in Step 2, select all and copy all t
 Step 7 - Apply Configurations
 Open the Camera app. Double tap anywhere on the black area next to the shutter button. Choose the desired configuration file to apply the settings.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Experiment with your taste and creativity with all the config files provided. My personal favorites is the Polaroid special edition. I don't remember other names as it's been ages since I have used them.
+
+It is suggested not to change much of the setting of the camera app. Just load the configuration you want and shoot.
+
+Note - I am not sure if it works with MediaTek devices. On Snapdragon it is smooth tho
