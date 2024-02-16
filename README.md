@@ -9,6 +9,7 @@ Step 2 - Download and Extract Configs.zip
 Step 3 - Open the installed Camera app and grant the necessary permissions when prompted.
 
 Step 4 - Adjust File Access Permissions [Very Very Important Step]
+
 Close the Camera app. Open the app info for the Camera app. Manually set the highest priority for file access permissions by selecting "Allow management of all files."
 On Realme, Oppo, and OnePlus devices, ensure both "Photos and videos" and "Storage" permissions are granted.
 
@@ -17,6 +18,7 @@ Step 5 - Open the camera app, swipe down on the viewfinder to access settings. S
 Step 6 - Open the folder that you extracted in Step 2, select all and copy all the config files (files with .xml). Navigate to your file manager and go to internal storage > GCam > Configs7. Delete the existing random config file if present. Move all the extracted config files (.xml files) from Step 2 to the Configs7 folder.
 
 Step 7 - Apply Configurations
+
 Open the Camera app. Double tap anywhere on the black area next to the shutter button. Choose the desired configuration file to apply the settings.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
