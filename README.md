@@ -1,0 +1,2 @@
+# ma-GCam
+Magic
