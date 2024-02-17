@@ -10,8 +10,7 @@ Step 3 - Open the installed Camera app and grant the necessary permissions when 
 
 Step 4 - Adjust File Access Permissions [Very Very Important Step]
 
-Close the Camera app. Open the app info for the Camera app. Manually set the highest priority for file access permissions by selecting "Allow management of all files."
-On Realme, Oppo, and OnePlus devices, ensure both "Photos and videos" and "Storage" permissions are granted.
+Close the Camera app. Open the app info for the Camera app. Manually set the highest priority for file access permissions by selecting "Allow management of all files." / On Realme, Oppo, and OnePlus devices, ensure both "Photos and videos" and "Storage" permissions are granted.
 
 Step 5 - Open the camera app, swipe down on the viewfinder to access settings. Scroll all the way down and tap on "Configs" > tap on "Save" provide a random name and this will create the directory to store your config files.
 
@@ -23,7 +22,7 @@ Open the Camera app. Double tap anywhere on the black area next to the shutter b
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Experiment with your taste and creativity with all the config files provided. My personal favorites is the Polaroid special edition. I don't remember other names as it's been ages since I have used them.
+Experiment with your taste and style trying all the config files provided. My personal favorite is the Polaroid special edition. I don't remember other names as it's been ages since I used them.
 
 It is suggested not to change much of the setting of the camera app. Just load the configuration you want and shoot.
 
