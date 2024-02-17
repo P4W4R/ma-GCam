@@ -24,6 +24,6 @@ Open the Camera app. Double tap anywhere on the black area next to the shutter b
 
 Experiment with your taste and style trying all the config files provided. My personal favorite is the Polaroid special edition. I don't remember other names as it's been ages since I used them.
 
-It is suggested not to change much of the setting of the camera app. Just load the configuration you want and shoot.
+It is suggested not to change much of the setting of the camera app. Just load the configuration you want and shoot. You can play with the controls you get.
 
 Note - I am not sure if it works with MediaTek devices. On Snapdragon it is smooth tho
